@@ -58,6 +58,8 @@ Este projeto apresenta uma solução eficaz para um problema específico do agro
 
 - <b>Banco de dados</b>: As informações de usuario senha e dns devem ser inseridas no arquivo src/database/connection.
 
+- <b>Tabelas</b>: Rodar o conteúdo do arquivo scripts/ddl.sql no seu banco de dados oracle.
+
 - <b>Instalação de dependências</b>: Deve ser criado o .venv do projeto.
 
 - <b>Instalação de dependências</b>: Deve ser executado o pip install de todas as dependências citadas em requirements.txt.
