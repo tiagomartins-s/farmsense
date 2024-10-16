@@ -1,0 +1,52 @@
+{
+    "meses": [
+        {
+            "mes": 3,
+            "porcentagem_irrigacao": 0.27
+        },
+        {
+            "mes": 8,
+            "porcentagem_irrigacao": 0.37
+        },
+        {
+            "mes": 11,
+            "porcentagem_irrigacao": 0.37
+        },
+        {
+            "mes": 9,
+            "porcentagem_irrigacao": 0.46
+        },
+        {
+            "mes": 7,
+            "porcentagem_irrigacao": 0.46
+        },
+        {
+            "mes": 10,
+            "porcentagem_irrigacao": 0.55
+        },
+        {
+            "mes": 6,
+            "porcentagem_irrigacao": 0.55
+        },
+        {
+            "mes": 4,
+            "porcentagem_irrigacao": 0.82
+        },
+        {
+            "mes": 2,
+            "porcentagem_irrigacao": 0.82
+        },
+        {
+            "mes": 12,
+            "porcentagem_irrigacao": 0.82
+        },
+        {
+            "mes": 5,
+            "porcentagem_irrigacao": 0.91
+        },
+        {
+            "mes": 1,
+            "porcentagem_irrigacao": 0.91
+        }
+    ]
+}
