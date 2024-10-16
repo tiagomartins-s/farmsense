@@ -4,9 +4,9 @@ from src.utils.log import record_log
 def create_connection():
     try:
         connection = oracledb.connect(
-            user="rm560639",                    # Usuário do banco de dados
-            password="311299",                  # Senha do banco de dados
-            dsn="oracle.fiap.com.br:1521/ORCL"  # Data Source Name (ex.: host:porta/serviço)
+            user="********",                    # Usuário do banco de dados
+            password="******",                  # Senha do banco de dados
+            dsn="****************:******/****"  # Data Source Name (ex.: host:porta/serviço)
         )
         return connection
 

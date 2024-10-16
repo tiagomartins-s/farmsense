@@ -13,13 +13,13 @@
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Tiago Martins</a>
 - <a href="https://www.linkedin.com/in/lucas-castro-32263bb5 ">Lucas Costa dos Santos Castro</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/in/mauricio-cortes-5488a61a9/">Mauricio Cortes</a> 
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="">Nome do Tutor</a>
+- <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes Moreira</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
 
 
 ## 📜 Descrição
